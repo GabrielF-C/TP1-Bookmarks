@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace BookmarksManager
 {
+    //
     public static class CustomHelper
     {
         public static object ObjectYouWantMetaDataTypeFrom { get; private set; }
