@@ -1,5 +1,5 @@
 # TP1 - Bookmarks
-[Énoncé](https://github.com/GabrielF-C/TP1---Bookmarks/blob/master/420-KEF%20TP1.pdf)
+[Énoncé](https://github.com/GabrielF-C/TP1-Bookmarks/blob/master/420-KEF%20TP1.pdf)
  
 Vous devez bâtir un site transactionnel de gestion de favoris (bookmark) avec authentification. 
  
